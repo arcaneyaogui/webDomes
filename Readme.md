@@ -12,5 +12,28 @@
 
 
 
-## 2.react-pc-001
+## 2.react-pc
 
+跟着柴柴老师做的小项目,感谢柴柴老师.
+
+### Login界面 
+
+![login.png](https://s2.loli.net/2023/02/19/mROqBW9CvnHLcSa.png)
+
+
+
+### 数据概览
+
+![shujugailan.png](https://s2.loli.net/2023/02/19/Gpndscz6uyf2DVk.png)
+
+
+
+### 内容管理
+
+![wenzhangguanli.png](https://s2.loli.net/2023/02/19/gsJLiG8nx7dcjay.png)
+
+
+
+### 发布文章
+
+![fabuwenzhang.png](https://s2.loli.net/2023/02/19/kh1WiXqZFLBT9ru.png)
