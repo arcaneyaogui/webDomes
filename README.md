@@ -1,39 +1,13 @@
-# web-Dome
+# chatApp-view
 
-平时用来练手的前端小dome
+页面首页样式 , 分别为左方的聊天选项框切换,中间的聊天窗口,和右边的用户.
 
-![落日绘.jpg](https://s2.loli.net/2023/02/16/glaLuATGXcyRCr4.jpg)
+![chat.png](https://s2.loli.net/2023/03/12/ti3vUXPF1BdJIe7.png)
 
-## 1. mobx_react
+用户列表有一个下拉框 , 支持添加用户,及页面选项.
 
-具体功能请看文件夹中的 README.md 文件
+![xiala.png](https://s2.loli.net/2023/03/12/BKYTVpv2MiZlRFc.png)
 
-![todos.png](https://s2.loli.net/2023/02/16/iwe1otv9GaAESmF.png)
+支持文件上传和选择
 
-
-
-## 2.react-pc
-
-跟着柴柴老师做的小项目,感谢柴柴老师.
-
-### Login界面 
-
-![login.png](https://s2.loli.net/2023/02/19/mROqBW9CvnHLcSa.png)
-
-
-
-### 数据概览
-
-![shujugailan.png](https://s2.loli.net/2023/02/19/Gpndscz6uyf2DVk.png)
-
-
-
-### 内容管理
-
-![wenzhangguanli.png](https://s2.loli.net/2023/02/19/gsJLiG8nx7dcjay.png)
-
-
-
-### 发布文章
-
-![fabuwenzhang.png](https://s2.loli.net/2023/02/19/kh1WiXqZFLBT9ru.png)
+![chat_upphotos.png](https://s2.loli.net/2023/03/12/FZr3XLvhKIptBGu.png)
